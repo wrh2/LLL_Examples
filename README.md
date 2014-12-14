@@ -10,7 +10,8 @@ Contents of LLL_Examples/Cpp_LLL
 <p>lll.cpp - a simple example of implementing a linear linked list in C++ recursively</p>
 <p>CppLLL - executable created from the code in lll.cpp</p>
 
-<p>All executables were compiled with:</p>
+All executables were compiled with:
+-----------------------------------
 <p>Apple LLVM version 6.0 (clang-600.0.54) (based on LLVM 3.5svn)</p>
 <p>Target: x86_64-apple-darwin14.0.0</p>
 <p>Thread model: posix</p>
