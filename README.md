@@ -1,6 +1,3 @@
-LLL_Examples
-============
-
 <p>This directory contains examples of working with a linear linked list in C and C++.</p>
 
 Contents of LLL_Examples/C_LLL
