@@ -4,7 +4,7 @@ LLL_Examples
 This directory contains examples of working with a linear linked list in C and C++.
 
 Contents of LLL_Examples/C_LLL
-lll.c - a simple example of implementing a linear linked list in C recursively
+<p>lll.c - a simple example of implementing a linear linked list in C recursively</p>
 C-LLL - executable created from the code in lll.c 
 
 Contents of LLL_Examples/Cpp_LLL
